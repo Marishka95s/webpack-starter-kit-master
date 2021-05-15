@@ -10,7 +10,7 @@
 Для быстрого старта необходимо склонировать репозиторий.
 
 ```shell
-git clone https://github.com/luxplanjay/webpack-starter-kit.git
+git clone https://github.com/Marishka95s/webpack-starter-kit-master.git
 ```
 
 Переименовать папку сборки именем вашего проекта.
